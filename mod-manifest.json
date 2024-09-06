@@ -1,0 +1,13 @@
+{
+    "apiVersion": "2.0",
+    "version": "1.0",
+    "type": "action",
+    "name": "Actionmod Reload Data",
+    "id": "actionmod-reload-data",
+    "description": "Description of what the mod does.",
+    "capabilities": [],
+    "icon": "icon.svg",
+    "scripts": [
+        { "id": "reload-data", "name": "Reload all data", "entryPoint": "reloadData", "file": "build/reload-data.js" }
+    ]
+}

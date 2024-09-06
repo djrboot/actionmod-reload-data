@@ -1,0 +1,9 @@
+# editor related
+.vscode/
+.editorconfig
+# node related
+node_modules/
+package-lock.json
+# build artifacts
+build/
+*.mod
